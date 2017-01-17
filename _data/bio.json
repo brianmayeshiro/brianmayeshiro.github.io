@@ -104,15 +104,14 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "National Alliance on Mental Illness (NAMI)",
+      "website": "http://www.nami.org/",
+      "position": "NAMI Walk Volunteer",
+      "startDate": "2016-10-08",
+      "endDate": "",
+      "summary": "Supported NAMI Walk participants",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+       
       ]
     },
     {
@@ -123,25 +122,38 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Professional Liaison, ACM Manoa, 2016-Present",
+        "Member, ACM Manoa, 2015-Present",
+        "Member, Grey Hats at UHM, 2015-Present",
+        "Member, HOSA at UHM, 2014-Present"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "1st Place",
+      "date": "2016",
+      "awarder": "Hawaii HOSA Prepared Speaking Competition",
+      "summary": ""
     },
     {
-      "title": "First place",
+      "title": "Top 10",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "awarder": "National HOSA Prepared Speaking Competition",
+      "summary": "See my portfolio site for more details."
     }
+    {
+      "title": "2nd Place",
+      "date": "2015",
+      "awarder": "Hawaii HOSA Prepared Speaking Competition",
+      "summary": ""
+    },
+    {
+      "title": "2nd Place",
+      "date": "2014",
+      "awarder": "Hawaii HOSA Prepared Speaking Competition",
+      "summary": ""
+    },
   ],
   "references": [
     {
