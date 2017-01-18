@@ -6,7 +6,7 @@
     "email": "brianmay@hawaii.edu",
     "phone": "",
     "website": "https://brianmayeshiro.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii and expect to graduate in Fall 2018. After graduation, I hope to pursue a career in game development or project management.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -59,11 +59,11 @@
         "Java",
         "Javascript",
         "C#",
-        "Unity",
         "HTML",
         "CSS",
         "mySQL",
-        "PHP"
+        "PHP",
+        "UNIX",
       ]
     },
     {
@@ -72,7 +72,12 @@
       "keywords": [
         "MacOS",
         "Git/GitHub",
-        "Windows"
+        "Windows",
+        "Unity",
+        "Bash",
+        "Microsoft Visual Studio",
+        "HTC Vive",
+        "Oculus Rift",
       ]
     }
   ],
@@ -85,20 +90,42 @@
       "endDate": "Present",
       "gpa": "3.28",
       "courses": [
+        "Algorithms (ICS 311)",
+        "Virtual and Augmented Reality (ICS 691)",
+        "Data Storage and Retrieval (ICS 321)",
+        "Data Structures (ICS 212)",
+        "Computing Ethics for Lab Assistants (ICS 390)",
+        "Calculus I",
+        "Calculus II",
+        "Intro to Computer Science I (ICS 111)",
+        "Intro to Computer Science II (ICS 211)"
       ]
     }
   ],
-  "work": [
+  "experience": [
     {
       "company": "UH Manoa General Education Office",
       "position": "Student Assistant",
-      "website": "",
+      "website": "https://www.hawaii.edu/gened/",
       "startDate": "2016-09-01",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Maintain and update website",
-        "Process confidential paperwork about UHM courses"
+        "Update and maintain General Education website (HTML)",
+        "Process confidential information about UHM courses into database"
+      ]
+    },
+     {
+      "company": "UH Manoa",
+      "position": "Undergraduate Lab Assistant",
+      "website": "",
+      "startDate": "2016-08",
+      "endDate": "2016-11",
+      "summary": "Assistant to the Teacher Assistant",
+      "highlights": [
+        "Assist students in understanding fundamental programming skills using java",
+        "Conducted 2 lab sessions, quiz review, and held weekly 3-hour open lab for student help",
+        "Non-paid position for credit, part of ICS 390 teaching requirements"
       ]
     },
   ],
