@@ -61,7 +61,7 @@
         "C#",
         "HTML",
         "CSS",
-        "mySQL",
+        "SQL",
         "PHP",
         "UNIX",
       ]
@@ -98,7 +98,9 @@
         "Calculus I",
         "Calculus II",
         "Intro to Computer Science I (ICS 111)",
-        "Intro to Computer Science II (ICS 211)"
+        "Intro to Computer Science II (ICS 211)",
+        "Discrete Mathematics I (ICS 141)",
+        "Discrete Mathematics II (ICS 241)"
       ]
     }
   ],
