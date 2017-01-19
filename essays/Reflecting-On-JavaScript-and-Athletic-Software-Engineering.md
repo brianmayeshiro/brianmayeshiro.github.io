@@ -8,7 +8,7 @@ labels:
   - Learning
 ---
 
-<img class="ui left floated image" src="../images/javascriptcode.jpg">
+<img class="ui image" src="../images/javascriptcode.jpg">
 
 ## Initial Thoughts on JavaScript
 
