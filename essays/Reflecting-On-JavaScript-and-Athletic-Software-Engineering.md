@@ -1,16 +1,16 @@
 ---
 layout: essay
 type: essay
-title: Reflecting on JavaScript and Software Engineering
+title: Reflecting on JavaScript and Athletic Software Engineering
 date: 2017-01-19
 labels:
   - Software Engineering
   - Learning
 ---
 
-<img class="ui tiny left circular floated image" src="../images/javascriptcode.jpg">
+<img class="ui left floated image" src="../images/javascriptcode.jpg">
 
-##Initial Thoughts on JavaScript
+## Initial Thoughts on JavaScript
 
 Completing the JavaScript 1 module from my Software Engineering course (ICS 314) gave me the impression that JavaScript is a solid language for software engineering. Not only does the language seem to offer a lot of versatility without any inconvenient complexities, but takes aspects of popular languages such as C++ and Java. In addition to being a solid language, the method in which I’m being taught the language in my Software Engineering class further enhances my ability to understand JavaScript in a quick and efficient manner.
 
@@ -18,11 +18,11 @@ One interesting thing about JavaScript I learned from the module are the distinc
 
 If you are unfamiliar with JavaScript, var, let, and const are the main datatypes used for defining variables. Const is used to define variables that can’t be changed at runtime, and var and let have similar uses to each other, but scripting language standards like the ES6 encourage you to use let as much as possible instead of var because of the major differences between functional scoping and block scoping. With var’s functional scoping, instantiating any variable of type var sometimes yields unusual behavior in variable accessibility. In hindsight, block scoping with the let datatype performs more similarly to what we expect a variable to perform with any other programming language. Aside from the differences in datatypes which I found interesting, I really liked the idea of function encapsulation (a function inside function). Compared to other programming languages, I haven’t really come across any that allowed a function to be defined with a function inside of it. 
 
-##Is JavaScript a Good Language for Software Engineering?
+## Is JavaScript a Good Language for Software Engineering?
 
 From a software engineering standpoint, I think versatility like this would only help in developing programs. I’m personally against the idea of restricting one’s creativity with the language they’re using. In my humble opinion, restricting one’s creativity in such manner is like telling an author to write a story only with exclamation marks for punctuation. The story might end up being creative, but the restrictions were still impractical and limited the writer’s options. In retrospect to software engineering, I have a similar belief. Even though restrictions could boast creative thinking, I believe having restrictions on something as fundamental as a language is the wrong means of trying to produce creative solutions. People should be allowed to freely express their creativity and develop software without any impractical nuances in their language of choice. So far, I’ve found JavaScript to be a language with a lot of options which provides a lot of possibilities. Due to this versatility, I think JavaScript is a good programming language.
 
-##Athletic Software Engineering
+## Athletic Software Engineering
 
 In my Software Engineering class taught by Philip Johnson, he teaches the material in the form of “athletic software engineering” as a means of improving the speed of finding high quality solutions to problems as well as achieving the following:
 
