@@ -23,6 +23,7 @@ From a software engineering standpoint, I think versatility like this would only
 ##Athletic Software Engineering
 
 In my Software Engineering class taught by Philip Johnson, he teaches the material in the form of “athletic software engineering” as a means of improving the speed of finding high quality solutions to problems as well as achieving the following:
+
 1.	Gain fluency with your tools and technologies.
 2.	Gain the ability to focus and enter the “flow state” during software development.
 3.	Become more productive and useful in “bursty” development environments like [startup weekends.](http://startupweekend.org/)
