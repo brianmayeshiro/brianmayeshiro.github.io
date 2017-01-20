@@ -13,8 +13,7 @@ labels:
 summary: My group in the graduate level course in Virtual/Augmented Reality developed a game for the HTC Vive.
 ---
 
-<div class="ui images">
-  
+<div class="ui embed" data-source="youtube" data-id="4oXLSEYZo8c" >
 </div>
 
 For our final project in ICS 691, I teamed up with two other classmates to create a game that took advantage of the benefits from Virtual Reality. The result was our game *Climate Destroyer VR* and it was created with the intent of allowing the user to perform unethical actions without being punished. In addition, using a VR device like the HTC Vive gave us the opportunity to immerse the player in a way made them feel like they had superpowers.
