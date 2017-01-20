@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/test3.jpg
+image: images/debugger.jpg
 title: Debugger++
 permalink: projects/debugger
 date: 2016
