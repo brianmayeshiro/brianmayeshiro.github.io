@@ -17,8 +17,8 @@ labels:
 summary: My partner and I developed a private social web application for the final project in our Databases class.
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v8alu06TkSQ" frameborder="0" allowfullscreen></iframe>
-
+<div class="ui embed" data-source="youtube" data-id="v8alu06TkSQ" >
+</div>
 
 The goal of the final project in ICS 321 was to create a practical web application that demonstrated our understanding in using databases. As a result, my partner (Shengyuan Su) and I came up with the idea of developing an app that would help its users organize professional/recreational meetings. The application is setup very similarly to Twitter in terms of the method to display posts and reacting to a person's post. However, our application distinguishes a clear difference from Twitter by implementing a private social network.
 
