@@ -26,7 +26,7 @@ For this project, my role consisted of mainly front-end tasks such as designing 
 
 After completing this project I learned about the complexities that can result from using databases in an application. Since our application was inspired by Twitter, I learned about some of the backend details that the average user would probably not notice. Also, I gained a fundamental understanding of web programming languages like JavaScript, HTML, PHP, and CSS. To help me in configuring the buttons, I learned to use a 3rd party tool called *Bootstrap*.
 
-##Demo Video
+## Demo Video
 
 <div class="ui embed" data-source="youtube" data-id="v8alu06TkSQ" >
 </div>
