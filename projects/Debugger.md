@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/debugger.jpg
+image: images/debugger.JPG
 title: Debugger++
 permalink: projects/debugger
 date: 2016
@@ -12,10 +12,6 @@ labels:
   - Virtual Reality
 summary: The Oculus team from ACM Manoa developed a zombie-like survival game using Unity.
 ---
-
-<div class="ui images">
-  
-</div>
 
 Our game, *Debugger++*, was meant to practice our Unity development skills for a Virtual Reality device like the Oculus Rift. As one of my first projects in Unity and my first time using a game engine to create a game, *Debugger++* served as a huge milestone in my journey towards being a software engineer and game developer. The project took 2 semesters to finish (Fall 2015-Spring 2016) and our team consisted of around 7 members.
 
