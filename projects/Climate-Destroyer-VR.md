@@ -21,7 +21,7 @@ My role for this project was to map the controllers and create the dynamic envir
 
 From this project, I learned that creating a controversial game like *Climate Destroyer VR* is risky, but could give you insight on the ethics behind making games. Regardless of the type of entertainment, there seems to always be a set of boundaries that would backfire if the creators of the product are not aware of it.
 
-##Demo Video
+## Demo Video
 
 <div class="ui embed" data-source="youtube" data-id="4oXLSEYZo8c" >
 </div>
