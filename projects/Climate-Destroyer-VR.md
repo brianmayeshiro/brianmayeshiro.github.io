@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ics691final.jpg
+image: images/ics691finalproject.png
 title: Climate Destroyer VR
 permalink: projects/Climate-Destroyer-VR
 date: 2016
