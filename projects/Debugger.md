@@ -15,7 +15,7 @@ summary: The Oculus team from ACM Manoa developed a zombie-like survival game us
 
 <img class="ui image" src="../images/test.JPG">
 
-Our game, *Debugger++*, was meant to practice our Unity development skills for a Virtual Reality device like the Oculus Rift. As one of my first projects in Unity and my first time using a game engine to create a game, *Debugger++* served as a huge milestone in my journey towards being a software engineer and game developer. The project took 2 semesters to finish (Fall 2015-Spring 2016) and our team consisted of around 7 members.
+Our game, *Debugger++*, was meant to practice our Unity development skills for a Virtual Reality device like the Oculus Rift. As one of my first projects in Unity and my first time using a game engine to create a game, *Debugger++* served as a huge milestone in my journey towards being a software engineer and game developer. The project took 2 semesters to finish (Fall 2015-Spring 2016) and our team consisted of 6 members.
 
 For this project, I was tasked with programming the user interface (UI) for the start menu, desigining the types of enemies, and creating the soundtrack for the game. As the name implies, *Debugger++* puts the player in a room with infinitely spawning roaches and see how many points the player can accumulate over time. Since our game was zombie-themed, my goal for the soundtrack was to generate a "creepy" vibe for the player. Being tasked with the game's audio also meant that I needed to learn how to use Unity's audio system. I was pleased to find out that the basic audio setup in Unity was rather straightforward and didn't need any complex configurations to play the audio.
 
