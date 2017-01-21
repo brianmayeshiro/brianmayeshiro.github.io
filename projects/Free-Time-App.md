@@ -14,7 +14,7 @@ labels:
   - Databases
   - Bootstrap
   - PHP
-summary: My partner and I developed a private social web application for the final project in our Databases class.
+summary: My partner and I developed a private social web application for the final project in our Databases class (ICS 321).
 ---
 
 <img class="ui image" src="../images/FreeTimeApp.png">
