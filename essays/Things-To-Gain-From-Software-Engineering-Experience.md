@@ -8,7 +8,7 @@ labels:
   - Learning
 ---
 
-<img class="ui image" src="../images/javascriptcode.jpg">
+<img class="ui image" src="../images/HeroAlone.jpg">
 
 Learning about Software Engineering will provide me fundamental insight on how to develop programs with teams while being efficient. With the tech world moving at such a fast pace, I need to know how to develop software in a timely manner to keep up-to-date with the newest technologies that release every year. Also, group work is a large component of most large-scale software projects.  Learning how to effectively work with my teammates along with knowing how to use a proper source control system like Git is highly beneficial for anyone that’s interested in developing software.
 
