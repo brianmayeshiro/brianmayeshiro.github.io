@@ -24,7 +24,7 @@ From a software engineering standpoint, I think versatility like this would only
 
 ## Athletic Software Engineering
 
-<img class="ui image" src="../images/QWOP.jpg">
+<img class="ui medium image" src="../images/QWOP.jpg">
 
 In my Software Engineering class taught by Philip Johnson, he teaches the material in the form of “athletic software engineering” as a means of improving the speed of finding high quality solutions to problems as well as achieving the following:
 
