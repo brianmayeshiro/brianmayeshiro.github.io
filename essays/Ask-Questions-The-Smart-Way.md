@@ -31,7 +31,7 @@ There were many reasons for this question not being smart, but here are some of 
 -	Response was “big list of resources”
 -	Stack Overflow even closed the thread with..
 
-<blockquote> "Questions asking us to recommend or find a tool, library or favorite off-site resource are off-topic for Stack Overflow as they tend to attract opinionated answers and spam. Instead, describe the problem and what has been done so far to solve it." – John Saunders, Ganesh Sittampalam, Bill the Lizard <footer>
+<blockquote> "Questions asking us to recommend or find a tool, library or favorite off-site resource are off-topic for Stack Overflow as they tend to attract opinionated answers and spam. Instead, describe the problem and what has been done so far to solve it." </blockquote> <footer> – John Saunders, Ganesh Sittampalam, Bill the Lizard </footer>
 
 It was even mentioned in the “answers” section that the question was simply “way too vague” which made it hard to even provide a decent answer to the questioner. The user was asking for a solution about a topic with tons of possibilities which made the scope of the question too big.
 
