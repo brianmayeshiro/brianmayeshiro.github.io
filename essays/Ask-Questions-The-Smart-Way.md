@@ -31,7 +31,7 @@ There were many reasons for this question not being smart, but here are some of 
 -	Question had way too much depth
 -	Did not show attempt to even google some sources
 -	Response was “big list of resources”
--	Stack Overflow even closed the thread with..
+-	Stack Overflow even closed the thread with...
 
 <blockquote> "Questions asking us to recommend or find a tool, library or favorite off-site resource are off-topic for Stack Overflow as they tend to attract opinionated answers and spam. Instead, describe the problem and what has been done so far to solve it." – John Saunders, Ganesh Sittampalam, Bill the Lizard </blockquote>
 
