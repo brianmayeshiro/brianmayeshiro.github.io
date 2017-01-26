@@ -27,6 +27,7 @@ http://stackoverflow.com/questions/1669/learning-to-write-a-compiler
 
 ## Why it’s “not smart”
 There were many reasons for this question not being smart, but here are some of the main ones:
+
 -	Way too vague
 -	Question had way too much depth
 -	Did not show attempt to even google some sources
@@ -46,6 +47,7 @@ http://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted
 
 ## Why it’s “smart”
 This question just so happens to be the highest-voted question on Stack Overflow and for very good reasons:
+
 -	Had short code samples
 -	Had proof of prior attempts and showed results
 -	Question(s) were concise
