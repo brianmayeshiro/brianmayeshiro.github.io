@@ -58,4 +58,4 @@ From showing such effort, the questioner was blessed with a lengthy and detailed
 
 ## Insights Gained as a Result of This Experience
 Reading Raymond’s article and searching online for examples of questions for both ends of the spectrum gave me a better understanding of how to effectively communicate with other technical professionals for help. As for our student, Dan, if he takes some of the advice presented in Raymond’s article and use it as a guide, he will likely get the help he urgently needs.
-
+ 
