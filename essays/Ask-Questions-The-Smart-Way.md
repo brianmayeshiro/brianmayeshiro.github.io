@@ -22,7 +22,8 @@ Regardless of whether the class was focused on databases, security, or artificia
 ## Example of a Not Smart Question
 When I’m using the word “smart”, I’m referring to the methods described in [Eric Raymond’s article about asking smart questions](http://www.catb.org/esr/faqs/smart-questions.html). Before delving into the “smart” way to ask questions, I’d like to first provide an example from StackOverflow of how NOT to ask a question.
 
-The following is an example of a “not smart” question under the guidelines Raymond’s article: http://stackoverflow.com/questions/1669/learning-to-write-a-compiler
+The following is an example of a “not smart” question under the guidelines Raymond’s article:  
+http://stackoverflow.com/questions/1669/learning-to-write-a-compiler
 
 ## Why it’s “not smart”
 There were many reasons for this question not being smart, but here are some of the main ones:
