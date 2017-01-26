@@ -8,7 +8,7 @@ labels:
   - Learning
 ---
 
-<img class="ui large image" src="../images/smartquestions.jpg">
+<img class="ui large middle aligned image" src="../images/smartquestions.jpg">
 
 ## We’ve all been there before…
 
