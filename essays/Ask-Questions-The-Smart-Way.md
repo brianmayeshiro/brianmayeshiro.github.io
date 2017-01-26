@@ -13,6 +13,7 @@ labels:
 ## We’ve all been there before…
 
 Consider the following scenario:
+
 *A student named Dan is working on a project for his artificial intelligence class and encounters a problem with the search algorithm he’s using. After searching online and banging his head for 4 hours trying to solve the problem, Dan was unable to figure out how to make his search algorithm run correctly. He decides to ask his friends and the professor for help, but neither gave any helpful advice. At this point, Dan is panicking because his assignment is due in a week and he barely has any more time to work on the assignment before the deadline. What should he do next?*
 
 Like most computer science students, they’ve experienced a similar stress-inducing situation like the scenario with Dan. However, Dan must go the “extra mile” and ask for help online as one of his few options left. Time is ticking and Dan needs to get help as soon as he can. So, if he wants a good chance of getting help, he needs to ask his question the “smart” way.
