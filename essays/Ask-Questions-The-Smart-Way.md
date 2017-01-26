@@ -8,7 +8,7 @@ labels:
   - Learning
 ---
 
-<img class="ui image" src="../images/smartquestions.jpg">
+<img class="ui large image" src="../images/smartquestions.jpg">
 
 ## We’ve all been there before…
 
@@ -21,6 +21,7 @@ Regardless of whether the class was focused on databases, security, or artificia
 
 ## Example of a Not Smart Question
 When I’m using the word “smart”, I’m referring to the methods described in [Eric Raymond’s article about asking smart questions](http://www.catb.org/esr/faqs/smart-questions.html). Before delving into the “smart” way to ask questions, I’d like to first provide an example from StackOverflow of how NOT to ask a question.
+
 The following is an example of a “not smart” question under the guidelines Raymond’s article: http://stackoverflow.com/questions/1669/learning-to-write-a-compiler
 
 ## Why it’s “not smart”
@@ -31,13 +32,14 @@ There were many reasons for this question not being smart, but here are some of 
 -	Response was “big list of resources”
 -	Stack Overflow even closed the thread with..
 
-<blockquote> "Questions asking us to recommend or find a tool, library or favorite off-site resource are off-topic for Stack Overflow as they tend to attract opinionated answers and spam. Instead, describe the problem and what has been done so far to solve it." </blockquote> <footer> – John Saunders, Ganesh Sittampalam, Bill the Lizard </footer>
+<blockquote> "Questions asking us to recommend or find a tool, library or favorite off-site resource are off-topic for Stack Overflow as they tend to attract opinionated answers and spam. Instead, describe the problem and what has been done so far to solve it." – John Saunders, Ganesh Sittampalam, Bill the Lizard </blockquote>
 
 It was even mentioned in the “answers” section that the question was simply “way too vague” which made it hard to even provide a decent answer to the questioner. The user was asking for a solution about a topic with tons of possibilities which made the scope of the question too big.
 
 Furthermore, the question was nowhere near concise. Luckily, the questioner got a lot of responses, but in the end, the responses weren’t very helpful because he/she made it too difficult to understand the exact problem they were facing with making a compiler. The questioner showed no prior attempt to searching online for sources which demonstrated a sense of laziness and intent for someone else to do the work for them. Funny enough, the highest-rated response on that question was from a user who answered the question with “Big List of Resources”, just proving that the way the question was asked hindered people’s ability to answer the question. Luckily for this user, the “Big List of Resources” provided some helpful information (which was hard to find on Google) to guide him/her in building a compiler. 
 
 ## Example of a Smart Question
+
 Now here’s an example of a question asked in the “smart” way: 
 http://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array 
 
