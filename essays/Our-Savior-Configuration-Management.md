@@ -11,18 +11,17 @@ labels:
   - Version Control
   - Unity
 ---
-
-<img class="ui centered medium image" src="../images/github.jpg">
-
 ## The Saving Grace for Software Engineers
+
+<img class="ui centered image" src="../images/github.jpg">
+
 
 After using Git for the past 2 years, I view configuration management as one of the most valuable tools in software development. I’ve used it for a wide range of projects in my undergraduate computer science career, ranging from web applications to virtual reality games for the HTC Vive. For any software engineer, the ability to allow easy collaboration amongst teams through configuration management tools like Git proves valuable as it dramatically increases the workflow for modern software development. 
 
-
+## "Git and Unity is a nightmare!" ...well it could be...
 
 <img class="ui centered image" src="../images/gitmeme.jpg">
 
-## "Git and Unity is a nightmare!" ...well it could be...
 
 Despite being one of the most effective tools for modern software development, I’ve had a problem with configuration management before, but it might have been a result of a lack of knowledge of the software. When using Git for group projects in the Unity game engine, I was unaware of the complex setup required to have Git functioning smoothly. For example, I wasn’t aware that I needed to update my .gitignore file with certain file extensions that would help with Unity’s biggest collaboration problems of large binary files and scene merging.
 
