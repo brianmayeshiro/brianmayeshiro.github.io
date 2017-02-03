@@ -18,6 +18,8 @@ labels:
 
 After using Git for the past 2 years, I view configuration management as one of the most valuable tools in software development. I’ve used it for a wide range of projects in my undergraduate computer science career, ranging from web applications to virtual reality games for the HTC Vive. For any software engineer, the ability to allow easy collaboration amongst teams through configuration management tools like Git proves valuable as it dramatically increases the workflow for modern software development. 
 
+
+
 <img class="ui centered image" src="../images/gitmeme.jpg">
 
 ## "Git and Unity is a nightmare!" ...well it could be...
