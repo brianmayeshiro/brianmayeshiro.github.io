@@ -8,7 +8,7 @@ labels:
   - Learning
 ---
 
-<img class="ui large left floated image" src="../images/codequality.png">
+<img class="ui large centered image" src="../images/codequality.png">
 
 ## Why Are They Necessary?
 
