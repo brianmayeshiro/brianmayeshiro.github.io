@@ -8,7 +8,9 @@ labels:
   - Learning
 ---
 
-<img class="ui centered small image" src="../images/codequality.png">
+<img class="ui float small image" src="../images/codequality.png">
+
+## Why Are They Necessary?
 
 Standards are important for quality regardless of the affiliated industry or profession. For software engineering, this goes beyond the consumer experience and into the standards of workflow. By workflow, I’m referring to the methods a software engineering team implements as a means of developing code, organizing files, setting up deadlines etc. For this writeup, I’ll specifically focus on the importance on having coding standards for software engineering and the underrated benefit behind its use for learning/educational purposes.
 
