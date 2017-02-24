@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui large centered image" src="../images/anything-but-not-everything.jpg">
+<img class="ui medium centered image" src="../images/anything-but-not-everything.jpg">
 
 ## Let’s face it, you can’t be great at everything
 Sorry to be so blunt, but it’s true. There’s simply not enough time to master every single craft you’re interested in. Yes, everyone can be decently skilled at a lot of tasks, but there’s a clear difference between being “good” at something and being “great” at something.  
