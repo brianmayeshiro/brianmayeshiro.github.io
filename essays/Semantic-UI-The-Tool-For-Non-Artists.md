@@ -9,11 +9,11 @@ labels:
   - Learning
 ---
 
-<img class="ui large centered image" src="../images/codequality.png">
+<img class="ui large centered image" src="../images/anything-but-not-everything.jpg">
 
 ## Let’s face it, you can’t be great at everything
 Sorry to be so blunt, but it’s true. There’s simply not enough time to master every single craft you’re interested in. Yes, everyone can be decently skilled at a lot of tasks, but there’s a clear difference between being “good” at something and being “great” at something.  
-I consider myself to have a creative mind and if I wanted to, I can create my own UI Framework to suit my needs. However, it’s likely that a graphic artist would always be able to do a much better job at creating a visually pleasing UI Framework. For programmers, they don't have the time to learn graphic design, but they still want to have a visually stunning website. So, what should they do?
+I consider myself to have a creative mind and if I wanted to, I can create my own UI Framework to suit my needs. However, it’s likely that a graphic artist would always be able to do a much better job at creating a visually pleasing UI Framework. I don't have the time to learn graphic design, but still want to have a visually stunning website. So, what should I do?
 
 ## Semantic UI makes it easier to have a pretty site
 Here's where semantic UI comes in; even though it takes a bit of time to learn the nuances of semantic UI, it won’t take long for someone (especially an experienced programmer) to gather enough knowledge to use it for their own website(s). One of the key features of semantic UI is its use of natural language for syntax. Natural language simplifies the complexities into a phrase that almost seems trivial and thus, makes it easier for any programmer to quickly adapt to using it to create a visually pleasing web or mobile application. Instead of going through the long frustration in learning how to design interfaces at the same level of a graphics designer, a programmer can quickly have the interface they desire without knowing the technical nuances and instead, focus on their field of expertise: the programming aspect of building the application. Semantic UI offers the "handicap" tool to help people build visually stunning UI's without the need to know graphic design.
