@@ -7,6 +7,8 @@ labels:
   - Software Engineering
   - Meteor
 ---
+## Meteor Ain't Perfect In Any Way
+MeteorJS is great for testing web applications in a timely manner, but it has its problems. Most notably, the long download times and the problem with Windows 10 OS is the source of most of these problems.
 
 ## Extracting Header About Meteor Tool…
 Like my header, extracting the meteor tool the first time when using it was painstakingly long. Okay, I admit that was lame attempt at a “play on words”, but the most irritating step in using Meteor for the ‘Digits’ exercise in my Software Engineering class. It didn’t matter whether I had a decent internet connection or not, the time it took to download and extract the meteor tool was at least 10 minutes. 
