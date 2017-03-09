@@ -21,4 +21,4 @@ C:\Users\brian\AppData\Local\.meteor\packages\meteor-tool\1.4.1_1\mt-os.windows.
       throw error;
       ^
 ```
-Despite Googling every possible solution to the problem, I had to resort to uninstalling all my software (meteor, nodejs/npm, intelliJ), deleting all leftover appdata from the software, restarting my computer, reinstalling the software, and then restarting my computer again to get things up and running. I am still unable to figure out the exact problem to this issue, but reinstalling and restarting everything seemed to solve it.
+Despite Googling every possible solution to the problem, I had to resort to uninstalling all my software (meteor, nodejs/npm, intelliJ), deleting all leftover appdata from the software, restarting my computer, reinstalling the software, and then restarting my computer again to get things up and running. I am still unable to figure out the exact problem to this issue, but reinstalling and restarting everything seemed to solve it. Another solution (if you can't seem to get it to work after that) is to do a factory reset of your PC, this would be considered as a last resort.
