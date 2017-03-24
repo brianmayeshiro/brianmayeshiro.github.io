@@ -30,6 +30,7 @@ Once you install meteor you might want to consider [doing the following in here]
 Now that you have Meteor properly installed, all you need to do now is create an app directory in your desired project and run `meteor npm install`. More steps may also be required, as described in here, but once everything is set up in your project, you are now use Meteor in all its showery greatness!
 
 Through Meteor, you can create a query/schema with ease through the Mongo database that comes with installation. This gets rid of the hassle of having to create your own SQL database and apply SQL functions on top of your JavaScript, CSS, and HTML code.
+
 When you’re ready to test your application, in your app directory, simply type `meteor` in the command line. Your web application should be viewable via http://localhost:3000. From here, you can view any changes you make to Meteor in real time! It’s like magic (or just some cool technical backend work to make it look like magic). Through real time webpage updates after every change, development can run much quicker and improve productivity.
 
 ## But wait, there’s more!
