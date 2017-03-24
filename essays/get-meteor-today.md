@@ -10,7 +10,7 @@ labels:
   - JavaScript
   - Web Development
 ---
-<img class="ui centered image" src="../images/meteor.png">
+<img class="ui medium centered image" src="../images/meteor.png">
 
 Tired of having to refresh your webpage every time just to see the changes you made to your code? Don’t have the time or resources to set up your own server or database for your application needs? Well I’ve got the solution for you…
 
