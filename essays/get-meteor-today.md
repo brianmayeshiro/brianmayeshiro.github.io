@@ -38,6 +38,6 @@ When you’re ready to test your application, in your app directory, simply type
 All of this sounds like an expensive package, but surprise! It’s not. Meteor is *free* and you can get it right now by going to [Meteor.com](https://www.meteor.com/). 
 Through Meteor, you no longer need to deal with the hassle of setting up your 1000 things just to get a simple hello world application.
 
-So, don’t get yourself hit with an asteroid sized problem in app development, instead go with the smaller and more manageable Meteor.
+So, don’t get yourself hit with an asteroid-sized problem in app development, instead go with the smaller and more manageable Meteor.
 
 ###### *Warning. When using Meteor, side effects may include: Hours of banging your head against the wall, regret of buying a PC, several reinstalls, long extraction times, increase use of curse words, and rage quitting. Consider talking to your doctor or psychiatrist first before trying Meteor.
