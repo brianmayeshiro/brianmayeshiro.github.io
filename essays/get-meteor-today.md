@@ -20,7 +20,7 @@ Meteor comes with a vast range of tools like [semantic UI](https://semantic-ui.c
 
 ## Setup can be easy as 1, 2, 3...4, 5! (maybe more steps)
 If you’re a Mac or Linux user you can simply follow the instructions [here](http://meteortips.com/first-meteor-tutorial/getting-started/), but if you’re a Windows user you might need to do the following:
-1.	Disable windows real time protection or any other virus scanners 
+1.	Disable Windows real time protection or any other virus scanners 
 2.	Remind yourself to turn it back on later
 3.	Change the windows association for .js files from Windows Script Host to IntelliJ (for IntelliJ users)
 4.	Use Ubuntu on Windows
@@ -32,7 +32,7 @@ Now that you have Meteor properly installed, all you need to do now is create an
 
 Through Meteor, you can create a query/schema with ease through the Mongo database that comes with installation. This gets rid of the hassle of having to create your own SQL database and apply SQL functions on top of your JavaScript, CSS, and HTML code.
 
-When you’re ready to test your application, in your app directory, simply type `meteor` in the command line. Your web application should be viewable via http://localhost:3000. From there, you can view any changes you make to Meteor in real time! It's like magic (or just some cool technical backend work to make it look like magic). Through real time webpage updates after every change, development can run much quicker and improve productivity.
+When you’re ready to test your application, in your app directory, simply type `meteor` in the command line. Your web application should be viewable via http://localhost:3000/. From there, you can view any changes you make to Meteor in real time! It's like magic (or just some cool technical backend work to make it look like magic). Through real time webpage updates after every change, development can run much quicker and improve productivity.
 
 ## But wait, there’s more!
 All of this sounds like an expensive package, but surprise! It’s not. Meteor is free and you can get it right now by going to [Meteor.com](https://www.meteor.com/). 
