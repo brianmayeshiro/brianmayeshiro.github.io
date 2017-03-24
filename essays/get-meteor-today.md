@@ -28,7 +28,7 @@ If you’re a Mac or Linux user you can simply follow the instructions here, but
 
 Once you install meteor you might want to consider [doing the following in here](http://courses.ics.hawaii.edu/ics314s17/morea/meteor-2/reading-meteor-tips.html) to help troubleshoot potential problems.
 
-Now that you have Meteor properly installed, all you need to do now is create an app directory in your desired project and in the command line, run `meteor npm install` inside that app directory. More steps may also be required, as described in here, but once everything is set up in your project, you are now use Meteor in all its showery greatness!
+Now that you have Meteor properly installed, all you need to do now is create an app directory in your desired project and in the command line, run `meteor npm install` inside that app directory. More steps may also be required, as described in [here](http://courses.ics.hawaii.edu/ics314s17/morea/meteor-2/reading-meteor-tips.html), but once everything is set up in your project, you are now use Meteor in all its showery greatness!
 
 Through Meteor, you can create a query/schema with ease through the Mongo database that comes with installation. This gets rid of the hassle of having to create your own SQL database and apply SQL functions on top of your JavaScript, CSS, and HTML code.
 
