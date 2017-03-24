@@ -24,6 +24,7 @@ If you’re a Mac or Linux user you can simply follow the instructions here, but
 3.	Change the windows association for .js files from Windows Script Host to IntelliJ (for IntelliJ users)
 4.	Use Ubuntu on Windows
 5.	If all else fails, consider switching to a Linux OS or buying a Mac
+
 Once you install meteor you might want to consider [doing the following in here](http://courses.ics.hawaii.edu/ics314s17/morea/meteor-2/reading-meteor-tips.html) to help troubleshoot potential problems.
 Now that you have Meteor properly installed, all you need to do now is create an app directory in your desired project and run meteor npm install. More steps may also be required, as described in here, but once everything is set up in your project, you are now use Meteor in all its showery greatness!
 Through Meteor, you can create a query/schema with ease through the Mongo database that comes with installation. This gets rid of the hassle of having to create your own SQL database and apply SQL functions on top of your JavaScript, CSS, and HTML code.
@@ -31,6 +32,8 @@ When you’re ready to test your application, in your app directory, simply type
 
 ## But wait, there’s more!
 All of this sounds like an expensive package, but surprise! It’s not. Meteor is free and you can get it right now by going to [Meteor.com](https://www.meteor.com/). 
-Through Meteor, you no longer need to deal with the hassle of setting up your 1000 things just to get a simple hello world application. So, don’t get yourself hit with an asteroid sized problem in app development, instead go with the smaller and more manageable Meteor.
+Through Meteor, you no longer need to deal with the hassle of setting up your 1000 things just to get a simple hello world application.
 
-*Warning. When using Meteor, side effects may include: Hours of banging your head against the wall, regret of buying a PC, several reinstalls, long extraction times, increase use of curse words, and rage quitting. Consider talking to your doctor or psychiatrist before trying Meteor.
+So, don’t get yourself hit with an asteroid sized problem in app development, instead go with the smaller and more manageable Meteor.
+
+#### Warning. When using Meteor, side effects may include: Hours of banging your head against the wall, regret of buying a PC, several reinstalls, long extraction times, increase use of curse words, and rage quitting. Consider talking to your doctor or psychiatrist before trying Meteor.
