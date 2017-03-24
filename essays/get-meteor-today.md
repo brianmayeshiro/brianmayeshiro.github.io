@@ -22,7 +22,7 @@ Meteor comes with a vast range of tools like [semantic UI](https://semantic-ui.c
 If you’re a Mac or Linux user you can simply follow the instructions [here](http://meteortips.com/first-meteor-tutorial/getting-started/), but if you’re a Windows user you might need to do the following:
 1.	Disable Windows real time protection or any other virus scanners 
 2.	Remind yourself to turn it back on later
-3.	Change the windows association for .js files from Windows Script Host to IntelliJ (for IntelliJ users)
+3.	Change the Windows association for .js files from Windows Script Host to IntelliJ (for IntelliJ users)
 4.	Use Ubuntu on Windows
 5.	If all else fails, consider switching to a Linux OS or buying a Mac
 
