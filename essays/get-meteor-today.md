@@ -19,7 +19,7 @@ Hi, Brian here and I’m going to talk to you about **Meteor**: the latest buzz 
 Meteor comes with a vast range of tools like [semantic UI](https://semantic-ui.com/) and [MongoDB](https://docs.mongodb.com/), all being run using [npm](https://www.npmjs.com/) and [nodejs](https://nodejs.org/en/). With all these tools at your disposal, Meteor takes care of the painstaking work for you and lets you (the programmer) focus on coding!
 
 ## Setup can be easy as 1, 2, 3...4, 5! (maybe more steps)
-If you’re a Mac or Linux user you can simply follow the instructions [here](http://meteortips.com/first-meteor-tutorial/getting-started/), but if you’re a Windows user you might need to do the following:
+If you’re a Mac or Linux user you can simply follow the instructions [here](http://meteortips.com/first-meteor-tutorial/getting-started/), but if you’re a Windows user you may need to do the following:
 1.	Disable Windows real time protection or any other virus scanners 
 2.	Remind yourself to turn it back on later
 3.	Change the Windows association for .js files from Windows Script Host to IntelliJ (for IntelliJ users)
