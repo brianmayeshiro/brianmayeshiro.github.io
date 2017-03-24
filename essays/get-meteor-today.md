@@ -40,4 +40,4 @@ Through Meteor, you no longer need to deal with the hassle of setting up your 10
 
 So, don’t get yourself hit with an asteroid-sized problem in app development, instead go with the smaller and more manageable Meteor.
 
-###### *Warning. When using Meteor, side effects may include: Hours of banging your head against the wall, regret of buying a PC, several reinstalls, long extraction times, increase use of curse words, and rage quitting. Consider talking to your doctor or psychiatrist first before trying Meteor.
+###### *Warning. When using Meteor, side effects may include: hours of banging your head against the wall, regret of buying a PC, several reinstalls, long extraction times, increase use of curse words, and rage quitting. Consider talking to your doctor or psychiatrist first before trying Meteor.
