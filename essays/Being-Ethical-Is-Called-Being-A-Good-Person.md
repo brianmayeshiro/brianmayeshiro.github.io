@@ -8,13 +8,12 @@ labels:
   - Learning
 ---
 
-<img class="ui medium centered image" src="../images/twitch_logo3.jpg">
 
 ## We must insure security and stability (without being imperial)
 
 If you’re the CEO of an airline company, you don’t want your customers being forcibly dragged off a plane. If you’re a politician, you don’t want to pass a law that will risk the lives of your people. If you’re the principal of a school, you don’t want to encourage students to start a fight every day. Like these careers and many others, ethics plays a significant role for insuring the security and safety of people in the community. Software engineering is no exception, being equally important as the security of the software. 
 
-<img class="ui medium centered image" src="../images/twitch_chat1.jpg">
+<img class="ui medium centered image" src="../images/twitch_logo3.jpg">
 
 ## The internet is the ideal environment for unethical behavior
 If you could do whatever you want without any real punishment, why not do it? As opposed to “real-life”, people on the internet do not need to associate their real identity with their online one all the time. Thus, making it easier for people to harass, abuse, and threaten people online with no real fear of consequence. 
