@@ -14,7 +14,7 @@ labels:
 summary: For the final project in my Software Engineering class, our group created an app for social gatherings and recreational use within the UH community.
 ---
 
-<img class="ui image" src="../images/ics691finalproject.png">
+<img class="ui image" src="../images/uventure.png">
 
 As part of the Final Project assignment for this course, uVenture was an app developed by Christopher Nguyen, Jason Leong, and myself. The app was designed to assist in planning recreational gatherings for people within the UH community using the Google Maps API and background information provided by Yelp reviews. This application was developed using the JavaScript framework, Meteor, and the IntelliJ IDE for development. Once the project was ready for submission, we used Galaxy to deploy our application onto a webpage. 
 
