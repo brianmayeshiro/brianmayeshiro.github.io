@@ -16,15 +16,13 @@ summary: For the final project in my Software Engineering class, our group creat
 
 <img class="ui image" src="../images/ics691finalproject.png">
 
-For our final project in ICS 691, I teamed up with two other classmates to create a game that took advantage of the benefits from Virtual Reality. The result was our game *Climate Destroyer VR* and it was created with the intent of allowing the user to perform unethical actions without being punished. In addition, using a VR device like the HTC Vive gave us the opportunity to immerse the player in a way made them feel like they had superpowers.
+As part of the Final Project assignment for this course, uVenture was an app developed by Christopher Nguyen, Jason Leong, and myself. The app was designed to assist in planning recreational gatherings for people within the UH community using the Google Maps API and background information provided by Yelp reviews. This application was developed using the JavaScript framework, Meteor, and the IntelliJ IDE for development. Once the project was ready for submission, we used Galaxy to deploy our application onto a webpage. 
 
-My role for this project was to map the controllers and create the dynamic environment. Using Unity to map the Vive controller input was difficult at first because it required a decent understanding of physics and using some of Unity's physics functions. After some trial and error, the button mapping of the controllers were figured out and I could then move on to creating the dynamic environment. As the player continues to have fun littering and damaging the environment, we wanted to somehow give a visual cue to show the players actions being effective. As a result, I used Unity's fog settings to increase the fog density in relation to the number of points over time. 
+My role for this project was to handle the UH CAS authentication and profile page for the user account. Since this app was catered towards the UH community, only people who were in the UH system could login and create a profile for uVenture. This insured that no-one from outside of the UH community can intervene with planned adventures. Once the user successfully logs into the app, they are immediately redirected to a profile page in which they create their own profile. The profile page gives them the option of providing their social media contact information (i.e. Twitter) and email contact in the case of needing to be contacted for a specific adventure. 
 
-From this project, I learned that creating a controversial game like *Climate Destroyer VR* is risky, but could give you insight on the ethics behind making games. Regardless of the type of entertainment, there seems to always be a set of boundaries that would backfire if the creators of the product are not aware of it.
+I'm glad I could endure this process of developing and completing a web application with a group because it taught me how to better manage certain aspects of the development process in a group. Before taking this course, I was not aware of the variety of tools that GitHub provides for the app development process. Issues, project cards, and the visual representations of our "branches" greatly helped in making things less frustrating. I will certainly use these features for my future projects and am fortunate to learn all the methods to Software Engineering before I finish my undergraduate studies.
 
-## Demo Video
+## uVenture Website
 
-<div class="ui embed" data-source="youtube" data-id="4oXLSEYZo8c" >
-</div>
-
-[Link to source code](https://github.com/jlarobello/Climate-Destroyer-VR)
+If you would like to view the source code or simply learn more about our app, you may view our website at
+[https://uventure.github.io/](https://uventure.github.io/)
