@@ -64,6 +64,7 @@
         "SQL",
         "PHP",
         "UNIX",
+        "Meteor",
       ]
     },
     {
@@ -78,6 +79,7 @@
         "Microsoft Visual Studio",
         "HTC Vive",
         "Oculus Rift",
+        "IntelliJ",
       ]
     }
   ],
@@ -100,7 +102,9 @@
         "Intro to Computer Science I (ICS 111)",
         "Intro to Computer Science II (ICS 211)",
         "Discrete Mathematics I (ICS 141)",
-        "Discrete Mathematics II (ICS 241)"
+        "Discrete Mathematics II (ICS 241)",
+        "Software Engineering (ICS 314)",
+        "AI Programming (ICS 361)",
       ]
     }
   ],
@@ -110,7 +114,7 @@
       "position": "Student Assistant",
       "website": "https://www.hawaii.edu/gened/",
       "startDate": "2016-09-01",
-      "endDate": "Present",
+      "endDate": "2017-05-03",
       "summary": "",
       "highlights": [
         "Update and maintain General Education website (HTML)",
@@ -151,7 +155,8 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Professional Liaison, ACM Manoa, 2016-Present",
+        "President, ACM Manoa, Spring 2017 to Present",
+        "Professional Liaison, ACM Manoa, Spring 2016 to Spring 2017",
         "Member, ACM Manoa, 2015-Present",
         "Member, Grey Hats at UHM, 2015-Present",
         "Member, HOSA at UHM, 2014-Present"
@@ -159,6 +164,18 @@
     }
   ],
   "awards": [
+    {
+      "title": "Best use of IOT",
+      "date": "2017",
+      "awarder": "AT&T Hackathon Hawaii",
+      "summary": ""
+    },
+    {
+      "title": "Best M2X API",
+      "date": "2017",
+      "awarder": "AT&T Hackathon Hawaii",
+      "summary": ""
+    },
     {
       "title": "1st Place",
       "date": "2016",
