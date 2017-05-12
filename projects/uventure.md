@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/uventure-square.png
 title: uVenture
 permalink: projects/uVenture
 date: 2017
