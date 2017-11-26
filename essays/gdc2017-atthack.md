@@ -48,6 +48,8 @@ After the conference was over, I got the chance to hang out with some friends in
 A week after returning home from my trip, I participated in the AT&T 24-hour Hackathon competition held by the AT&T Developer Program and the University of Hawaii.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Linux on Raspberry pi 😮 (not the edible kine) <a href="https://twitter.com/hashtag/ATThack?src=hash&amp;ref_src=twsrc%5Etfw">#ATThack</a> <a href="https://t.co/vtfXtEJwBL">pic.twitter.com/vtfXtEJwBL</a></p>&mdash; Brian Mayeshiro (@BrianMayeshiro) <a href="https://twitter.com/BrianMayeshiro/status/840463119130411008?ref_src=twsrc%5Etfw">March 11, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 With no prior planning for the Hackathon, I joined my friend’s group at the last minute. Our group’s app, <em>Demeter</em>, was a gamified mobile app geared towards rewarding people for taking care of their plants. My role for this project was to setup the Raspberry Pi with the sensors that kept track of the data we were using for the app. The data would be stored through AT&T’s M2X API and updated in real time. The three sensors were used to track light, humidity, and temperature. We used the data from these sensors to determine whether the user is taking proper care of their plants and rewarded those that did with achievements.
 
