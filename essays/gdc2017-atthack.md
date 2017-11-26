@@ -14,7 +14,7 @@ labels:
   - GDC
   - Game Development
 ---
-<img class="ui medium centered image" src="../images/meteor.png">
+<img class="ui medium centered image" src="../images/atthackdemeter.jpg">
 
 ## Intro
 Hello everyone,
@@ -57,15 +57,7 @@ With no prior planning for the Hackathon, I joined my friend’s group at the la
 
 After long and gruesome 24 hours, we gave our demo in front of the judges…
 
- 
-
- 
-
- 
-
- 
-
-[gallery ids="192,193" type="rectangular"]
+<img class="ui medium centered image" src="../images/demeter-iot-1.jpg">   <img class="ui medium centered image" src="../images/demeter-m2x.jpg">
 
 …and it paid off! Our group won 1<sup>st</sup> place for the “Best use of M2X API” and “Best use of IOT” (internet of things). Also, I won an AT&T Trek 2 tablet for the <a href="https://twitter.com/BrianMayeshiro/status/840463119130411008" target="_blank" rel="noopener noreferrer">best tweet</a> during the event! I’d like to give special thanks to <a href="https://twitter.com/RevaComm">RevaComm</a> for allowing us to use their workspace and especially give thanks to my teammates. They are the true MVPs.
 
