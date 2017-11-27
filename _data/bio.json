@@ -126,7 +126,19 @@
     }
   ],
   "work": [
-     {
+    {
+      "company": "White Tulip",
+      "position": "Programmer",
+      "website": "https://www.indiegogo.com/projects/white-tulip-game-pc-videogames/coming_soon",
+      "startDate": "2017-05",
+      "endDate": "2018-12",
+      "summary": "Programming in Unity C#, working with a writer and artist",
+      "highlights": [
+        "2D Puzzle Platformer about overcoming depression and PTSD",
+        "Using the Corgi Engine"
+      ]
+    },
+    {
       "company": "Purple Maia Foundation",
       "position": "Intern",
       "website": "http://www.purplemaia.org/",
