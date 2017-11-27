@@ -164,45 +164,6 @@
       ]
     },
   ],
-  "projects": [
-     {
-      "title": "Purple Maia Foundation",
-      "position": "Intern",
-      "website": "http://www.purplemaia.org/",
-      "startDate": "2017-09",
-      "endDate": "2018-5",
-      "summary": "Teaching Assistant",
-      "highlights": [
-        "Assist in teaching high school students about game and web development twice a week",
-        "Teaching Unity C#, JS, HTML, CSS, GitHub, Stencyl"
-      ]
-    },
-    {
-      "title": "UH Manoa General Education Office",
-      "position": "Student Assistant",
-      "website": "https://www.hawaii.edu/gened/",
-      "startDate": "2016-09-01",
-      "endDate": "2017-05-03",
-      "summary": "",
-      "highlights": [
-        "Update and maintain General Education website (HTML)",
-        "Process confidential information about UHM courses into database"
-      ]
-    },
-     {
-      "title": "UH Manoa",
-      "position": "Undergraduate Lab Assistant for ICS111",
-      "website": "https://www.ics.hawaii.edu/",
-      "startDate": "2016-08",
-      "endDate": "2016-11",
-      "summary": "Assistant to the Teacher Assistant",
-      "highlights": [
-        "Assist students in understanding fundamental programming skills using java",
-        "Conducted 2 lab sessions, quiz review, and held weekly 3-hour open lab for student help",
-        "Non-paid position for credit, part of ICS 390 teaching requirements"
-      ]
-    },
-  ],
   "volunteer": [
     {
       "organization": "National Alliance on Mental Illness (NAMI)",
