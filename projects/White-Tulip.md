@@ -2,9 +2,9 @@
 layout: project
 type: project
 image: images/white_tulip_cover_art1.jpg
-title: Climate Destroyer VR
+title: White Tulip
 permalink: projects/White-Tulip
-date: 2017
+date: 2018
 labels:
   - C#
   - 2D
