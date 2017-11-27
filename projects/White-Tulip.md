@@ -19,7 +19,8 @@ summary: A 2D Puzzle Platformer about overcoming symptoms of depression and PTSD
 
 <img class="ui image medium centered" src="../images/white_tulip_cover_art1.jpg">
 
-Being made in [Unity C#](https://unity3d.com/) and the [Corgi Engine](http://corgi-engine.moremountains.com/), White Tulip is a 2D Puzzle Platformer about depression and PTSD. It tells a story about overcoming the symptoms of these mental illnesses in the hope of inspiring others to join the fight against mental illness and overcome the struggles that come with it.
+## Background
+Made in [Unity C#](https://unity3d.com/) and the [Corgi Engine](http://corgi-engine.moremountains.com/), White Tulip is a 2D Puzzle Platformer about depression and PTSD. It tells a story about overcoming the symptoms of these mental illnesses in the hope of inspiring others to join the fight against mental illness and overcome the struggles that come with it.
 
 The pre-production phase of this project begun in the Summer of 2016, where a few of my friends and I wanted to create a videogame on our spare time that we can add on our resumes. Not much progress occurred during that period and people started to leave the project due to other commitments. As a result, only myself and a friend (my writer) continued working on White Tulip.
 
