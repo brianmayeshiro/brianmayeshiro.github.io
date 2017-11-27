@@ -49,6 +49,11 @@
       ]
     },
     {
+      "name": "Artificial Intelligence",
+      "keywords": [
+      ]
+    },
+    {
       "name": "Project Management",
       "keywords": [
       ]
@@ -68,6 +73,7 @@
         "CSS",
         "SQL",
         "PHP",
+        "Python",
         "UNIX",
         "Meteor",
       ]
@@ -78,13 +84,17 @@
       "keywords": [
         "MacOS",
         "Git/GitHub",
+        "Gnuplot",
         "Windows",
         "Unity",
         "Bash",
+        "Matplotlib",
         "Microsoft Visual Studio",
         "HTC Vive",
         "Oculus Rift",
         "IntelliJ",
+        "PyCharm",
+        "Sci-kit learn",
       ]
     }
   ],
@@ -95,7 +105,7 @@
       "studyType": "B.S.",
       "startDate": "2014-08-25",
       "endDate": "Present",
-      "gpa": "3.28",
+      "gpa": "3.3",
       "courses": [
         "Algorithms (ICS 311)",
         "Virtual and Augmented Reality (ICS 691)",
@@ -108,12 +118,26 @@
         "Intro to Computer Science II (ICS 211)",
         "Discrete Mathematics I (ICS 141)",
         "Discrete Mathematics II (ICS 241)",
-        "Software Engineering (ICS 314)",
+        "Software Engineering I (ICS 314)",
+        "Software Engineering II (ICS 414)",
         "AI Programming (ICS 361)",
+        "Machine Learning Fundamentals (ICS 435)",
       ]
     }
   ],
   "work": [
+     {
+      "company": "Purple Maia Foundation",
+      "position": "Intern",
+      "website": "http://www.purplemaia.org/",
+      "startDate": "2017-09",
+      "endDate": "2017-5",
+      "summary": "Teaching Assistant",
+      "highlights": [
+        "Assist in teaching high school students about game and web development twice a week",
+        "Teaching Unity C#, JS, HTML, CSS, GitHub, Stencyl"
+      ]
+    },
     {
       "company": "UH Manoa General Education Office",
       "position": "Student Assistant",
@@ -128,8 +152,8 @@
     },
      {
       "company": "UH Manoa",
-      "position": "Undergraduate Lab Assistant",
-      "website": "",
+      "position": "Undergraduate Lab Assistant for ICS111",
+      "website": "https://www.ics.hawaii.edu/",
       "startDate": "2016-08",
       "endDate": "2016-11",
       "summary": "Assistant to the Teacher Assistant",
