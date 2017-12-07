@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/trumptimetweet.png
+image: images/trumptimetweet3.png
 title: Sentiment Analysis of Tweets About Donald Trump
 permalink: projects/Sentiment-Analysis
 date: 2017
@@ -54,8 +54,8 @@ The keywords gathered from MonkeyLearn; words in larger font appeared more frequ
 The results indicated that tweets which mention @realDonaldTrump were overwhelmingly negative, which could have caused the 14.2%  of misclassified tweets. If the data set were more equal, it could have given a higher accuracy for classification. However, when classifying the tweets, the multi-class SVM had an average accuracy of 85.8% in the classification of the set of 302 tweets. The consistent accuracy in classification might indicate that sentiment analysis can be used to classify tweets, assuming that the sample size contains a lot of keywords which pertain to either positive, negative, or neutral.
 
 ## References
-[http://ipullrank.com/step-step-twitter-sentiment-analysis-visualizing-united-airlines-pr-crisis/](http://ipullrank.com/step-step-twitter-sentiment-analysis-visualizing-united-airlines-pr-crisis/)
+Code: [http://ipullrank.com/step-step-twitter-sentiment-analysis-visualizing-united-airlines-pr-crisis/](http://ipullrank.com/step-step-twitter-sentiment-analysis-visualizing-united-airlines-pr-crisis/)
 
-[https://media.readthedocs.org/pdf/tweepy/latest/tweepy.pdf ](https://media.readthedocs.org/pdf/tweepy/latest/tweepy.pdf)
+Tweepy Documentation: [https://media.readthedocs.org/pdf/tweepy/latest/tweepy.pdf ](https://media.readthedocs.org/pdf/tweepy/latest/tweepy.pdf)
 
-[https://en.oxforddictionaries.com/definition/sentiment_analysis ](https://en.oxforddictionaries.com/definition/sentiment_analysis)
+Sentiment Analysis Definition: [https://en.oxforddictionaries.com/definition/sentiment_analysis ](https://en.oxforddictionaries.com/definition/sentiment_analysis)
