@@ -15,7 +15,7 @@ labels:
   - Multi-class SVM
   - SVM
   - Trump
-summary: Using MonkeyLearn and SVM to classify tweets about Trump's personal Twitter account: @realDonaldTrump.
+summary: Using MonkeyLearn and SVM to classify tweets about Trump's personal Twitter account.
 ---
 
 <img class="ui image medium centered" src="../images/trumptimetweet.png">
