@@ -43,12 +43,12 @@ In machine learning, sentiment analysis uses a combination of NLP, statistics, c
 ### Positive, Negative, and Neutral Tweets
 Average Accuracy: 85.8%
 
-<img class="ui image medium centered" src="../images/sentimentanalysistrump.png">
+<img class="ui image centered" src="../images/sentimentanalysistrump.png">
 
 ### Keywords
 The keywords gathered from MonkeyLearn; words in larger font appeared more frequently.
 
-<img class="ui image medium centered" src="../images/keywordstrumptime.png">
+<img class="ui image centered" src="../images/keywordstrumptime.png">
 
 ## Conclusion
 The results indicated that tweets which mention @realDonaldTrump were overwhelmingly negative, which could have caused the 14.2%  of misclassified tweets. If the data set were more equal, it could have given a higher accuracy for classification. However, when classifying the tweets, the multi-class SVM had an average accuracy of 85.8% in the classification of the set of 302 tweets. The consistent accuracy in classification might indicate that sentiment analysis can be used to classify tweets, assuming that the sample size contains a lot of keywords which pertain to either positive, negative, or neutral.
