@@ -34,8 +34,6 @@ White Tulip is expected to be completed by late 2018, in time to submit it for t
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/i5vuo"><a href="//imgur.com/i5vuo">Gameplay clip</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-Funding Campaign: [Indiegogo Page](https://www.indiegogo.com/projects/white-tulip-game-pc-videogames/coming_soon)
-
 Facebook: [@WhiteTulipGame](https://www.facebook.com/whitetulipgame/)
 
 Twitter: [@WhiteTulipGame](https://twitter.com/WhiteTulipGame)
