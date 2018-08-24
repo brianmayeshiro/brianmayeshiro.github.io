@@ -76,6 +76,8 @@
         "Python",
         "UNIX",
         "Meteor",
+        "Prolog",
+        "NASM",
       ]
     },
     {
@@ -95,6 +97,7 @@
         "IntelliJ",
         "PyCharm",
         "Sci-kit learn",
+        "Tweepy",
       ]
     }
   ],
@@ -132,14 +135,16 @@
   "work": [
     {
       "company": "White Tulip",
-      "position": "Programmer",
-      "website": "https://www.indiegogo.com/projects/white-tulip-game-pc-videogames/coming_soon",
+      "position": "Programmer and Project Lead",
+      "website": "brianmayeshiro.github.io/projects/White-Tulip",
       "startDate": "2017-05",
       "endDate": "2018-12",
-      "summary": "Programming in Unity C#, working with a writer and artist",
+      "summary": "A 2D Puzzle Platformer about overcoming depression and PTSD programmed in Unity C#. Working with a writer and artist",
       "highlights": [
-        "2D Puzzle Platformer about overcoming depression and PTSD",
-        "Using the Corgi Engine"
+        "Implemented a gravity gun mechanic using an area effector 2D and scripted Vector2 lerp movements",
+        "Launched community campaign for journal entries about personal experiences with mental illness",
+        "Wrote scripts extending the Corgi Engine for puzzle reset, respawn, loading screen, ledge grab, saving, and AI",
+        "Extended Level and GUI Manager scripts to spawn a depression-related quote on player death"
       ]
     },
     {
@@ -210,15 +215,21 @@
   ],
   "awards": [
     {
-      "title": "Best use of IOT",
+      "title": "Best use of IOT ($1000)",
       "date": "2017",
       "awarder": "AT&T Hackathon Hawaii",
       "summary": ""
     },
     {
-      "title": "Best M2X API",
+      "title": "Best M2X API ($500)",
       "date": "2017",
       "awarder": "AT&T Hackathon Hawaii",
+      "summary": ""
+    },
+    {
+      "title": "Independent Order of Odd Fellows Scholarship ($2000)",
+      "date": "2017 to 2018",
+      "awarder": "",
       "summary": ""
     },
     {
