@@ -101,7 +101,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science, Communicology Minor (expected Fall 2018)",
+      "area": "Computer Science, Communicology Minor (expected December 2018)",
       "studyType": "B.S.",
       "startDate": "2014-08-25",
       "endDate": "Present",
@@ -111,6 +111,7 @@
         "Virtual and Augmented Reality (ICS 691)",
         "Data Storage and Retrieval (ICS 321)",
         "Data Structures (ICS 212)",
+        "Data Visualization (ICS 484)",
         "Computing Ethics for Lab Assistants (ICS 390)",
         "Calculus I",
         "Calculus II",
@@ -118,10 +119,13 @@
         "Intro to Computer Science II (ICS 211)",
         "Discrete Mathematics I (ICS 141)",
         "Discrete Mathematics II (ICS 241)",
+        "Operating Systems (ICS 332)",
         "Software Engineering I (ICS 314)",
         "Software Engineering II (ICS 414)",
         "AI Programming (ICS 361)",
+        "AI for Games (ICS 462)",
         "Machine Learning Fundamentals (ICS 435)",
+        "Machine and Systems Programming (ICS 312)",
       ]
     }
   ],
@@ -140,14 +144,14 @@
     },
     {
       "company": "Purple Maia Foundation",
-      "position": "Intern",
+      "position": "Teacher",
       "website": "http://www.purplemaia.org/",
       "startDate": "2017-09",
-      "endDate": "2018-5",
+      "endDate": "2018-12",
       "summary": "Teaching Assistant",
       "highlights": [
         "Assist in teaching high school students about game and web development twice a week",
-        "Teaching Unity C#, JS, HTML, CSS, GitHub, Stencyl"
+        "Taught using Unity C#, JS, HTML, CSS, GitHub, Stencyl, Piskel, MS Visual Studio, and VRTK"
       ]
     },
     {
@@ -159,7 +163,7 @@
       "summary": "",
       "highlights": [
         "Update and maintain General Education website (HTML)",
-        "Process confidential information about UHM courses into database"
+        "Process confidential information about UHM courses into a database using Microsoft Access"
       ]
     },
      {
@@ -196,7 +200,7 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "President, ACM Manoa, Spring 2017 to Present",
+        "President, ACM Manoa, Spring 2017 to May 2018",
         "Professional Liaison, ACM Manoa, Spring 2016 to Spring 2017",
         "Member, ACM Manoa, 2015-Present",
         "Member, Grey Hats at UHM, 2015-Present",
