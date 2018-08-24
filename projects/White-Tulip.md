@@ -42,14 +42,14 @@ Project Management was assisted through GitHub's project card system
 <img class="ui image medium centered" src="../images/WT_Project_Example.png">
 
 Example of the saving and loading feature implemented using the scripts provided in the Corgi Engine
-<a href="https://imgur.com/NNdcXNF"><img src="https://i.imgur.com/NNdcXNF.gif" title="source: imgur.com" /></a>
+<blockquote class="imgur-embed-pub" lang="en" data-id="NNdcXNF"><a href="//imgur.com/NNdcXNF">White Tulip Alpha Main Menu Example</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Sample Gameplay
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/i5vuo"><a href="//imgur.com/i5vuo">Gameplay clip</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Builds
-Alpha build (completed by August 31st, Intel Game Testing Contest submission)
+Alpha (completed by August 31st, Intel Game Testing Contest submission)
 
 Facebook: [@WhiteTulipGame](https://www.facebook.com/whitetulipgame/)
 
