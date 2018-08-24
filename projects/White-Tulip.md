@@ -34,9 +34,22 @@ The pre-production phase of this project begun in the Summer of 2016 but did not
 - Jeremiah French (Writer and Sound Designer)
 - Brian Mayeshiro (Project Lead and Programmer)
 
+## Making White Tulip
+Example of the use of shaders in WT
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/rHsa1w8"><a href="//imgur.com/rHsa1w8"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+Project Management was assisted through GitHub's project card system
+<img class="ui image medium centered" src="../images/WT_Project_Example.png">
+
+Example of the saving and loading feature implemented using the scripts provided in the Corgi Engine
+<a href="https://imgur.com/NNdcXNF"><img src="https://i.imgur.com/NNdcXNF.gif" title="source: imgur.com" /></a>
+
 ## Sample Gameplay
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/i5vuo"><a href="//imgur.com/i5vuo">Gameplay clip</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+## Builds
+Alpha build (completed by August 31st, Intel Game Testing Contest submission)
 
 Facebook: [@WhiteTulipGame](https://www.facebook.com/whitetulipgame/)
 
