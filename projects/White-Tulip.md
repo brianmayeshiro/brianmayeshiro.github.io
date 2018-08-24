@@ -39,7 +39,7 @@ Example of the use of shaders in WT
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/rHsa1w8"><a href="//imgur.com/rHsa1w8"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Project Management was assisted through GitHub's project card system
-<img width="1000px" src="../images/WT_Project_Example.PNG">
+<img class="ui image" width="700px" src="../images/WT_Project_Example.PNG">
 
 Example of the saving and loading feature implemented using the scripts provided in the Corgi Engine
 <blockquote class="imgur-embed-pub" lang="en" data-id="NNdcXNF"><a href="//imgur.com/NNdcXNF">White Tulip Alpha Main Menu Example</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
