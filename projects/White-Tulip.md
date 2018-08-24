@@ -20,13 +20,12 @@ summary: A 2D Puzzle Platformer about overcoming symptoms of depression and PTSD
 <img class="ui image medium centered" src="../images/white_tulip_cover_art1.jpg">
 
 ## Background
-Made in [Unity C#](https://unity3d.com/) and the [Corgi Engine](http://corgi-engine.moremountains.com/), White Tulip is a 2D Puzzle Platformer about depression and PTSD. It tells a story about overcoming the symptoms of these mental illnesses in the hope of inspiring others to join the fight against mental illness and overcome the struggles that come with it.
+Made in [Unity C#](https://unity3d.com/) and the [Corgi Engine](http://corgi-engine.moremountains.com/), White Tulip (WT) is a 2D Puzzle Platformer about overcoming Depression and PTSD.
 
-The pre-production phase of this project begun in the Summer of 2016, where a few of my friends and I wanted to create a videogame on our spare time that we can add on our resumes. Not much progress occurred during that period and people started to leave the project due to other commitments. As a result, only myself and a friend (my writer) continued working on White Tulip.
+Inspired by true events, WT follows the story of a mysterious hooded character that travels through a world representative of symptoms associated with Depression and PTSD. As you play as our hero, you will be accompanied by Mortimer: a reflection of our hero’s inner demons but is the only friend you have. Our hope with telling this story is to inspire others to join the fight against mental illness and overcome the struggles that come with it.
 
-It wasn't until the Summer of 2017 where the project would pick-up speed again and begin full-scale production. Since then, I was able to acquire the help of my writer friend and an artist.
+The pre-production phase of this project begun in the Summer of 2016 but did not begin full scale production until 2017. White Tulip is expected to be complete by the end of 2018 and will release on [Steam](https://store.steampowered.com/) and [Itch.io]( https://itch.io/) for PC and MacOS devices. All profits from the sale of WT will be donated to the [American Foundation for Suicide Prevention](https://afsp.org/).
 
-White Tulip is expected to be completed by late 2018, in time to submit it for the [Indie Games Festival](http://www.igf.com/). All profits from White Tulip will be donated to the [American Foundation for Suicide Prevention](https://afsp.org/).
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="sfsFguu"><a href="//imgur.com/sfsFguu"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
