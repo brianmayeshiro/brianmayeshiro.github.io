@@ -3,10 +3,10 @@
     "name": "Brian Mayeshiro",
     "label": "Student",
     "picture": "https://brianmayeshiro.github.io/images/Brian.jpg",
-    "email": "brianmay@hawaii.edu",
+    "email": "brianmayeshiro@gmail.com",
     "phone": "",
     "website": "https://brianmayeshiro.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii with a minor in Communicology and expect to graduate in Fall 2018. After graduation, I hope to pursue a career in game development or project management.",
+    "summary": "Graduated in Spring 2019 with a B.S. in Computer Science in the Department of Information and Computer Sciences (ICS) and a Minor in Communicology (Speech) at the University of Hawaii. Pursuing a career in software development or project management.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -98,26 +98,30 @@
         "PyCharm",
         "Sci-kit learn",
         "Tweepy",
+        "pandas",
+        "scikit-learn",
+        "Jupyter Notebook",
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science, Communicology Minor (expected December 2018)",
+      "area": "Computer Science, Communicology (Speech) Minor",
       "studyType": "B.S.",
       "startDate": "2014-08-25",
-      "endDate": "Present",
-      "gpa": "3.3",
+      "endDate": "2019-05-10",
+      "gpa": "3.12",
       "courses": [
         "Algorithms (ICS 311)",
         "Virtual and Augmented Reality (ICS 691)",
+        "Data Science Fundamentals (ICS 434)",
         "Data Storage and Retrieval (ICS 321)",
         "Data Structures (ICS 212)",
         "Data Visualization (ICS 484)",
         "Computing Ethics for Lab Assistants (ICS 390)",
-        "Calculus I",
-        "Calculus II",
+        "Calculus I (MATH 241)",
+        "Calculus II (MATH 242)",
         "Intro to Computer Science I (ICS 111)",
         "Intro to Computer Science II (ICS 211)",
         "Discrete Mathematics I (ICS 141)",
@@ -126,7 +130,6 @@
         "Software Engineering I (ICS 314)",
         "Software Engineering II (ICS 414)",
         "AI Programming (ICS 361)",
-        "AI for Games (ICS 462)",
         "Machine Learning Fundamentals (ICS 435)",
         "Machine and Systems Programming (ICS 312)",
       ]
@@ -138,8 +141,8 @@
       "position": "Programmer and Project Lead",
       "website": "brianmayeshiro.github.io/projects/White-Tulip",
       "startDate": "2017-05",
-      "endDate": "2018-12",
-      "summary": "A 2D Puzzle Platformer about overcoming depression and PTSD programmed in Unity C#. Working with a writer and artist",
+      "endDate": "2019-12",
+      "summary": "A 2D Puzzle Platformer about overcoming depression and PTSD programmed in Unity C#. Working with a artist, composer, and writer",
       "highlights": [
         "Implemented a gravity gun mechanic using an area effector 2D and scripted Vector2 lerp movements",
         "Launched community campaign for journal entries about personal experiences with mental illness",
@@ -151,12 +154,24 @@
       "company": "Purple Maia Foundation",
       "position": "Teacher",
       "website": "http://www.purplemaia.org/",
+      "startDate": "2018-01",
+      "endDate": "2019-05",
+      "summary": "Co-Teacher",
+      "highlights": [
+        "Assist in teaching high school students about game and web development (2x a week)",
+        "Taught using Unity C#, JS, HTML, CSS, GitHub, Stencyl, Piskel, MS Visual Studio, SteamVR and VRTK"
+      ]
+    },
+    {
+      "company": "Purple Maia Foundation",
+      "position": "Intern",
+      "website": "http://www.purplemaia.org/",
       "startDate": "2017-09",
-      "endDate": "2018-12",
+      "endDate": "2018-01",
       "summary": "Teaching Assistant",
       "highlights": [
-        "Assist in teaching high school students about game and web development twice a week",
-        "Taught using Unity C#, JS, HTML, CSS, GitHub, Stencyl, Piskel, MS Visual Studio, and VRTK"
+        "Assist in teaching high school students web programming fundamentals with an intro to game dev tools (2x a week)",
+        "Taught using JS, HTML, CSS, GitHub, Stencyl, Piskel, and Phaser"
       ]
     },
     {
@@ -207,9 +222,9 @@
       "highlights": [
         "President, ACM Manoa, Spring 2017 to May 2018",
         "Professional Liaison, ACM Manoa, Spring 2016 to Spring 2017",
-        "Member, ACM Manoa, 2015-Present",
-        "Member, Grey Hats at UHM, 2015-Present",
-        "Member, HOSA at UHM, 2014-Present"
+        "Member, ACM Manoa, 2015-2018",
+        "Member, Grey Hats at UHM,2015-2018",
+        "Member, HOSA at UHM, 2014-2018"
       ]
     }
   ],
@@ -227,8 +242,8 @@
       "summary": ""
     },
     {
-      "title": "Independent Order of Odd Fellows Scholarship ($2000)",
-      "date": "2017 to 2018",
+      "title": "Independent Order of Odd Fellows Scholarship ($2000 total)",
+      "date": "2017 and 2018",
       "awarder": "Independent Order of Odd Fellows",
       "summary": ""
     },
