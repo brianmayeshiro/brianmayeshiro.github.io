@@ -153,7 +153,7 @@
     {
       "company": "Purple Maia Foundation",
       "position": "Teacher",
-      "website": "http://www.purplemaia.org/",
+      "website": "http://www.purplemaia.org",
       "startDate": "2018-01",
       "endDate": "2019-05",
       "summary": "Co-Teacher",
@@ -165,7 +165,7 @@
     {
       "company": "Purple Maia Foundation",
       "position": "Intern",
-      "website": "http://www.purplemaia.org/",
+      "website": "http://www.purplemaia.org",
       "startDate": "2017-09",
       "endDate": "2018-01",
       "summary": "Teaching Assistant",
@@ -177,7 +177,7 @@
     {
       "company": "UH Manoa General Education Office",
       "position": "Student Assistant",
-      "website": "https://www.hawaii.edu/gened/",
+      "website": "https://www.hawaii.edu/gened",
       "startDate": "2016-09-01",
       "endDate": "2017-05-03",
       "summary": "",
@@ -189,7 +189,7 @@
      {
       "company": "UH Manoa",
       "position": "Undergraduate Lab Assistant for ICS111",
-      "website": "https://www.ics.hawaii.edu/",
+      "website": "https://www.ics.hawaii.edu",
       "startDate": "2016-08",
       "endDate": "2016-11",
       "summary": "Assistant to the Teacher Assistant",
@@ -203,7 +203,7 @@
   "volunteer": [
     {
       "organization": "National Alliance on Mental Illness (NAMI)",
-      "website": "http://www.nami.org/",
+      "website": "http://www.nami.org",
       "position": "NAMI Walk Volunteer",
       "startDate": "2016-10-08",
       "endDate": "",
