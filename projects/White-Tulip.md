@@ -24,7 +24,7 @@ Made in [Unity C#](https://unity3d.com/) and the [Corgi Engine](http://corgi-eng
 
 Inspired by true events, WT follows the story of a mysterious hooded character that travels through a world representative of symptoms associated with Depression and PTSD. As you play as our hero, you will be accompanied by Mortimer: a reflection of our hero’s inner demons but is the only friend you have. Our hope with telling this story is to inspire others to join the fight against mental illness and overcome the struggles that come with it.
 
-The pre-production phase of this project begun in the Summer of 2016 but did not begin full scale production until 2017. White Tulip is expected to be complete by the end of 2018 and will release on [Steam](https://store.steampowered.com/) and [Itch.io]( https://itch.io/) for PC and MacOS devices. All profits from the sale of WT will be donated to the [American Foundation for Suicide Prevention](https://afsp.org/).
+The pre-production phase of this project begun in the Summer of 2016 but did not begin full scale production until 2017. White Tulip is expected to be complete sometime in 2020 and will release on [Steam](https://store.steampowered.com/) and [Itch.io]( https://itch.io/) for PC and MacOS devices. All profits from the sale of WT will be donated to the [American Foundation for Suicide Prevention](https://afsp.org/).
 
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="sfsFguu"><a href="//imgur.com/sfsFguu"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
