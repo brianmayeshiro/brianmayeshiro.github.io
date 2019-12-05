@@ -6,7 +6,7 @@
     "email": "brianmayeshiro@gmail.com",
     "phone": "",
     "website": "https://brianmayeshiro.github.io",
-    "summary": "Graduated in Spring 2019 with a B.S. in Computer Science in the Department of Information and Computer Sciences (ICS) and a Minor in Communicology (Speech) at the University of Hawaii. Pursuing a career in software development or project management.",
+    "summary": "Graduated in Spring 2019 with a B.S. in Computer Science in the Department of Information and Computer Sciences (ICS) and a Minor in Communicology (Speech) at the University of Hawaii. Pursuing a career in software development or project management. Information last updated 12.4.2019",
     "location": {
       "address": "",
       "postalCode": "",
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "Analysis",
       "keywords": [
       ]
     },
@@ -132,6 +132,12 @@
         "AI Programming (ICS 361)",
         "Machine Learning Fundamentals (ICS 435)",
         "Machine and Systems Programming (ICS 312)",
+        "Principles of Effective Public Speaking (COMG 251)",
+        "Group Decision-Making and Leadership (COMG 352)",
+        "Persuasion (COMG 364)",
+        "Message Processing (COMG 371)",
+        "Interpersonal Relations (COMG 381)",
+        "Political Communication (COMG 454)",
       ]
     }
   ],
