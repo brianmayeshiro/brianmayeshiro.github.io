@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Hearthstone: 5 Common Mistakes with Reno Mage
+title: 5 Common Mistakes with Reno Mage
 date: 2017-05-27
 labels:
   - Gaming
