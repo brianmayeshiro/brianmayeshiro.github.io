@@ -8,6 +8,8 @@ labels:
   - Hearthstone
   - Guide
 ---
+Full article has been published here: https://hearthstone-decks.net/highlander-mage-5-common-mistakes/
+
 <img class="ui medium centered image" src="../images/200px-Reno_the_Relicologist.png">
 
 ## Intro
