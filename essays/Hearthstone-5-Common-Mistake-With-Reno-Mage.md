@@ -30,11 +30,15 @@ For this article, I’ll be referencing the two most common Reno Mage variants f
 Apxvoid’s Box list
 [https://www.facebook.com/Apxvoid/videos/134840521268100/
 ](https://www.facebook.com/Apxvoid/videos/134840521268100/)
+
+
 Code: AAECAaXDAx6KAckDqwTFBMsEjQi+7ALO7wLu9gLG+AKggAPoiQODlgOfmwOgmwOKngOhoQPCoQP8owOLpAOSpAPypQOEpwP6rAPwrwORsQOEtgOMtgPhtgOftwMAAA==
 
 Dmoney’s Giant list
 [https://www.reddit.com/r/CompetitiveHS/comments/fcmj09/1_na_reno_mage_guidestrategies/
 ](https://www.reddit.com/r/CompetitiveHS/comments/fcmj09/1_na_reno_mage_guidestrategies/)
+
+
 Code: AAECAf0EHooByQOrBMUEywThB40IvuwCzu8C7vYCxvgCoIAD6IkDg5YDn5sDoJsDip4DoaED/KMDi6QDkqQD8qUDhKcD+qwD8K8DkbEDhLYDjLYD4bYDn7cDAAA=
 
 ## Common Mistakes
