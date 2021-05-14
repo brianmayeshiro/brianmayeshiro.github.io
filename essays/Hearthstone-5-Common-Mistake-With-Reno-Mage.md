@@ -8,7 +8,9 @@ labels:
   - Hearthstone
   - Guide
 ---
-Note: This is a Gaming article intended for competitive players in the Hearthstone scene. Instead of going by my actual name, I'm referring to myself as "BrianOBryan" which is my in-game username. Full article originally published here: [https://hearthstone-decks.net/highlander-mage-5-common-mistakes/](https://hearthstone-decks.net/highlander-mage-5-common-mistakes/)
+Note: This is a Gaming article intended for competitive players in the Hearthstone scene. Instead of going by my actual name, I'm referring to myself as "BrianOBryan" which is my in-game username. 
+
+Full article originally published here: [https://hearthstone-decks.net/highlander-mage-5-common-mistakes/](https://hearthstone-decks.net/highlander-mage-5-common-mistakes/)
 
 <img class="ui medium centered image" src="../images/200px-Reno_the_Relicologist.png">
 
