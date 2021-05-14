@@ -19,6 +19,9 @@ summary: A 2D Puzzle Platformer about overcoming symptoms of depression and PTSD
 
 <img class="ui image medium centered" src="../images/white_tulip_cover_art1.jpg">
 
+
+Update May 13, 2021: As of late 2019, White Tulip has halted development. There are plans to showcase the game via livestream and/or releasing the Alpha build in the future, but there is no determined date. 
+
 ## Background
 Made in [Unity C#](https://unity3d.com/) and the [Corgi Engine](http://corgi-engine.moremountains.com/), White Tulip (WT) is a 2D Puzzle Platformer about overcoming Depression and PTSD.
 
@@ -29,7 +32,7 @@ The pre-production phase of this project begun in the Summer of 2016 but did not
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="sfsFguu"><a href="//imgur.com/sfsFguu"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-## Current Team
+## Team
 - Fernando Angelo (2D Pixel Artist)
 - Jeremiah French (Writer and Sound Designer)
 - Brian Mayeshiro (Project Lead and Programmer)
@@ -52,7 +55,7 @@ Example of the saving and loading feature implemented using the scripts provided
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/i5vuo"><a href="//imgur.com/i5vuo">Gameplay clip</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Builds
-Alpha (completed by August 31st, Intel Game Testing Contest submission)
+Alpha (completed by August 31st 2018, Intel Game Testing Contest submission)
 
 Facebook: [@WhiteTulipGame](https://www.facebook.com/whitetulipgame/)
 
