@@ -20,7 +20,7 @@ summary: A 2D Puzzle Platformer about overcoming symptoms of depression and PTSD
 <img class="ui image medium centered" src="../images/white_tulip_cover_art1.jpg">
 
 
-Update May 13, 2021: As of late 2019, White Tulip has halted development. There are plans to showcase the game via livestream and/or releasing the Alpha build in the future, but there is no determined date. 
+***Update May 13, 2021:*** As of late 2019, White Tulip has halted development due to burnout and as a result is unlikely to resume development. However, there are plans to showcase the unfinished product via livestream and/or releasing a playable build in the future, but no determined date. 
 
 ## Background
 Made in [Unity C#](https://unity3d.com/) and the [Corgi Engine](http://corgi-engine.moremountains.com/), White Tulip (WT) is a 2D Puzzle Platformer about overcoming Depression and PTSD.
