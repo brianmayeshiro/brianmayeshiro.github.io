@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Brian Mayeshiro",
-    "label": "Graduated",
+    "label": "Spring 2019 Graduate",
     "picture": "https://brianmayeshiro.github.io/images/Brian.jpg",
     "email": "brianmayeshiro@gmail.com",
     "phone": "",
     "website": "https://brianmayeshiro.github.io",
-    "summary": "Graduated in Spring 2019 with a B.S. in Computer Science in the Department of Information and Computer Sciences (ICS) and a Minor in Communicology (Speech) at the University of Hawaii. Pursuing a career in software development, education, organization or project management. Part-time content creator for the ATK Mode Esports team. Info last updated May 30th, 2021",
+    "summary": "B.S. in Computer Science in the Department of Information and Computer Sciences (ICS) and Minor in Communicology (Speech) at UH Manoa. Part-time content creator for the ATK Mode Esports team. Info last updated May 30th, 2021",
     "location": {
       "address": "",
       "postalCode": "",
@@ -60,6 +60,16 @@
     },
     {
       "name": "Data Science",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Organization",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Esports Broadcasting",
       "keywords": [
       ]
     },
