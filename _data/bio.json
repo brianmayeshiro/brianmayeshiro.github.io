@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Brian Mayeshiro",
-    "label": "Student",
+    "label": "Graduated",
     "picture": "https://brianmayeshiro.github.io/images/Brian.jpg",
     "email": "brianmayeshiro@gmail.com",
     "phone": "",
     "website": "https://brianmayeshiro.github.io",
-    "summary": "Graduated in Spring 2019 with a B.S. in Computer Science in the Department of Information and Computer Sciences (ICS) and a Minor in Communicology (Speech) at the University of Hawaii. Pursuing a career in software development or project management. Information last updated 12.4.2019",
+    "summary": "Graduated in Spring 2019 with a B.S. in Computer Science in the Department of Information and Computer Sciences (ICS) and a Minor in Communicology (Speech) at the University of Hawaii. Pursuing a career in software development, education, organization or project management. Part-time content creator for the ATK Mode Esports team. Information last updated May 30th, 2021",
     "location": {
       "address": "",
       "postalCode": "",
@@ -24,6 +24,11 @@
         "network": "twitter",
         "username": "brianmayeshiro",
         "url": "http://twitter.com/brianmayeshiro"
+      },
+      {
+        "network": "twitch",
+        "username": "brianobryan",
+        "url": "twitch.tv/BrianOBryan"
       },
       {
         "network": "linkedin",
@@ -54,7 +59,7 @@
       ]
     },
     {
-      "name": "Analysis",
+      "name": "Data Science",
       "keywords": [
       ]
     },
@@ -153,7 +158,7 @@
       "website": "brianmayeshiro.github.io/projects/White-Tulip",
       "startDate": "2016-07",
       "endDate": "2019-12",
-      "summary": "A 2D Puzzle Platformer about overcoming depression and PTSD programmed in Unity C#. Working with a artist, composer, and writer",
+      "summary": "A 2D Puzzle Platformer about overcoming depression and PTSD programmed in Unity C#. Worked with an artist, composer, and writer",
       "highlights": [
         "Implemented a gravity gun mechanic using an area effector 2D and scripted Vector2 lerp movements",
         "Launched community campaign for journal entries about personal experiences with mental illness",
